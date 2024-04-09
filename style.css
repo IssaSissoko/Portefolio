@@ -1,0 +1,27 @@
+.goat li{
+    display: inline-block;
+    text-align: right;
+    text-align: end;
+}
+a{
+    color: black;
+    display: inline;
+    margin-left: 25px;
+}
+img{
+    background-size: 250px;
+    width: 500px;
+    height: 300px;
+    margin-left: 675px;
+    margin-bottom: 25px;
+}
+h2{
+    text-align: center;
+}
+.konrad tr{
+    float: inline-end;
+  margin-right: 10px;
+}
+.fraude th{
+    margin-bottom: 1000px;
+}
