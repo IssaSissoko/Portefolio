@@ -1,17 +1,32 @@
 .goat li{
     display: inline-block;
+    color: rgb(255, 255, 255);
+    margin-left: 25px;
+    border: 70px;
+
+}
+header{
+        background-color: black;
+        color: white
 }
 ul{
     text-align: end;
+    color: black;
 }
+
+.noire{
+    color: black;
+    ;
+}
+
 .flexb{
     display:flex ;
     justify-content: space-between;
 }
 a{
-    color: black;
     display: inline;
-    margin-left: 25px;
+    text-decoration: none;
+    color: rgb(70, 70, 70);
 }
 img{
     background-size: 250px;
@@ -37,7 +52,13 @@ h2{
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: left;
   }
+  .air a {
+    color: white;
+    text-decoration: none;
+  }
+ 
   
   .titre {
     font-size: 24px;
@@ -47,4 +68,11 @@ h2{
   .description {
     font-size: 16px;
     line-height: 1.5;
+  }
+  main{
+    background-color: rgb(247, 245, 245);
+    text-align: center;
+  }
+  .goat a {
+    color: white;
   }
